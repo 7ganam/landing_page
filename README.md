@@ -4,10 +4,16 @@
 
 * [Instructions](#instructions)
 
-## Instructions
+## about
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+The first assignment of the udacity web development nanodegree 
+a dynamic reactive front page
 
-To get started, open `js/app.js` and start building out the app's functionality
+## technology 
+javascript css html -- no frame works 
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## functionality
+- the nav bar automatically upate based on the added content
+- the scroll effect 
+- the active section automatically gets updated 
+ 
